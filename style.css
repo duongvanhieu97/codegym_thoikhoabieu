@@ -1,0 +1,25 @@
+body{
+    padding: 50px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th {
+    padding: 20px;
+    border: 1px solid black;
+    font-weight: 400;
+}
+th{
+    background-color: red;
+    color: #cccccc;
+    text-align: center;
+    border-color: white;
+    font-size: 16px;
+    padding:20px;
+}
+td {
+    text-align: center;
+    font-size: 14px;
+
+}
